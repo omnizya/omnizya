@@ -1,1 +1,2 @@
-# omnizya
+# OmniZya
+Making Dream Come True
